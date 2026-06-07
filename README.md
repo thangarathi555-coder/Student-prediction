@@ -136,6 +136,7 @@ Student performance monitoring systems
 Academic counseling support
 Early warning system for at-risk students
 Data-driven education improvement
+
 📌 Conclusion
 
 This project demonstrates how Machine Learning and Data Analysis can be applied in education to predict student performance. Using Logistic Regression along with EDA and visualization techniques, we can effectively identify students who may need academic support and improve overall learning outcomes.
